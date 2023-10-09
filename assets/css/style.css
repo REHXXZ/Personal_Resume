@@ -174,7 +174,7 @@ h6 {
   transition: 0.3s;
   font-size: 15px;
   border-radius: 50px;
-  background: #f2f3f5;
+  background: #ffffff;
   height: 56px;
   width: 100%;
   overflow: hidden;
@@ -211,7 +211,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   color: #fff;
-  background: #0563bb;
+  background: #000000;
 }
 
 .nav-menu a:hover span,
@@ -525,7 +525,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #0563bb;
+  border-left: 3px solid #000000;
   position: relative;
 }
 
@@ -535,7 +535,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #0563bb;
+  color: #000000;
   margin-bottom: 10px;
 }
 
@@ -569,7 +569,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #0563bb;
+  border: 2px solid #000000;
 }
 
 /*--------------------------------------------------------------
